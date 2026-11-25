@@ -1,2 +1,2 @@
 # Data-Science
-Data Science laboratory assignment using Python and NumPy, covering array creation, array operations, indexing, slicing, and numerical data manipulation.
+Data Science laboratory assignments using Python, covering NumPy arrays, Pandas DataFrames, data manipulation, data analysis, and data visualization using Matplotlib.
